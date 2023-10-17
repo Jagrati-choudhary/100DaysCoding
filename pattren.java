@@ -16,7 +16,7 @@
                                       {
                                            for(int j=1; j<=col;j++)
                                           {
-                                          System.out.print(i*i );
+                                          System.out.print("*  " );
                                           }
                                           System.out.print("\n");
 
